@@ -1,5 +1,6 @@
 # Overlay 1.21 oraz Ramki do Rud
-
+Autorem paczki jest MastaNUB
+Jak bede sie nudził, to porysuje texturki elo zelo
 # Graf
 https://www.youtube.com/c/GrafMC
 
